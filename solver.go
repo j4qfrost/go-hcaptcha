@@ -1,7 +1,7 @@
 package hcaptcha
 
 import (
-	"github.com/justtaldevelops/go-hcaptcha/utils"
+	"github.com/j4qfrost/go-hcaptcha//utils"
 )
 
 // Solver is an interface to solve hCaptcha tasks.

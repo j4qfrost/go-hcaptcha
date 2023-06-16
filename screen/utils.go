@@ -2,7 +2,7 @@ package screen
 
 import (
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/justtaldevelops/go-hcaptcha/utils"
+	"github.com/j4qfrost/go-hcaptcha//utils"
 )
 
 // merge does a merge on two int slices into a slice of knots.
