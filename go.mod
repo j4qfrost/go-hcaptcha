@@ -14,3 +14,5 @@ require (
 	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
+
+replace github.com/playwright-community/playwright-go => github.com/mxschmitt/playwright-go
