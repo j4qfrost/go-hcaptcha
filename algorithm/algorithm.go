@@ -1,7 +1,7 @@
 package algorithm
 
 import (
-	"github.com/j4qfrost/go-hcaptcha//utils"
+	"github.com/j4qfrost/go-hcaptcha/utils"
 	"io/ioutil"
 	"net/http"
 )

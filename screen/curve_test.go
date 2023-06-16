@@ -3,7 +3,7 @@ package screen
 import (
 	"github.com/go-gl/mathgl/mgl64"
 	"github.com/go-vgo/robotgo"
-	"github.com/j4qfrost/go-hcaptcha//utils"
+	"github.com/j4qfrost/go-hcaptcha/utils"
 	"testing"
 	"time"
 )

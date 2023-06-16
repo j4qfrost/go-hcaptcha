@@ -3,7 +3,7 @@ package hcaptcha
 import (
 	"github.com/go-gl/mathgl/mgl64"
 	"github.com/iancoleman/orderedmap"
-	"github.com/j4qfrost/go-hcaptcha//agents"
+	"github.com/j4qfrost/go-hcaptcha/agents"
 )
 
 // Event is a movement event.

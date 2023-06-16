@@ -2,7 +2,7 @@ package screen
 
 import (
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/j4qfrost/go-hcaptcha//utils"
+	"github.com/j4qfrost/go-hcaptcha/utils"
 	"math"
 	"math/rand"
 )
