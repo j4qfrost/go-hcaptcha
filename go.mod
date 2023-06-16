@@ -1,6 +1,6 @@
 module github.com/j4qfrost/go-hcaptcha
 
-go 1.16
+go 1.20
 
 require (
 	github.com/go-gl/mathgl v1.0.0
